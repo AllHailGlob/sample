@@ -1,2 +1,79 @@
 # allhailglob.github.io
 The domain for displaying my beginner site in HTML
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="imgs/keys.png">
+    <title>Maddies' Portfolio</title>
+</head>
+
+
+<body style='background-color: #fff9cf'>
+
+    <main>
+
+    <div class="myDiv">
+
+        <nav>
+             <a target=”_blank” href="pages/gallery.html">Gallery</a>
+             <a target=”_blank” href="pages/contact.html">&ThickSpace;Contact</a>
+        </nav>
+
+            <div class="myDiv2">
+        <nav>
+             <a target=”_blank” href="pages/hireMe.html">Hire Me!</a>
+             <a target=”_blank” href="pages/about.html">&ThickSpace;About Me</a>
+        </nav>
+    </div>
+
+    </div>
+
+
+
+<img src="imgs/maddiepic.png" alt="cartoon maddie" width="20%">
+<img src="imgs/keys.png" alt="keys of a piano" width="30%">
+
+<h2> Maddie's portfolio: </h2>
+<p> 
+    This website is to display maddie's projects from sewing 18th century ball gowns
+    to making clothes for their friends that have been requested. Maddie moved to Brixham in 2024, kind of, they were being NomadMaddie living in their van; Winston. Eventually Maddie landed in Brixham and loved it soooo much that they decided to stay. Quite quickly they became part of the community and began a sewing course to make a ball gown for Brixham's Pirate Festival and it went from that to making clothes in a spur of the moment thing. 
+</p>
+
+<p> <b> Where Maddie learned from the best</b> </p>
+
+<p> At the sewing course in Brixham, Maddie met Andrew who runs the class and they help him out sometimes when needed in regards to helping people with their projects. He Runs The Workroom in Brixham and his website can be found <a href="https://www.theworkroombrixham.com">here!</a> </p>
+
+<aside>
+
+ <details>
+  <summary> Multiple crafts of Maddie </summary> 
+
+    <ul>
+        <li> Sewing </li>
+        <li> Crochet </li>
+        <li> Knitting </li>
+        <li> Embroidery</li>
+    </ul>
+
+  </details>
+
+</aside>
+
+</main>
+
+
+
+<footer>
+
+    <p>&copy; Jordan Bryans</p>
+    <p> Address: Your Mother, 69 Fakeaddress Court</p>
+
+</footer>    
+
+</body>
+
+</html>
